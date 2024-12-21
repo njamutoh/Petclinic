@@ -1,5 +1,5 @@
 yaml
-name: main.yml
+name: node.js
 on:
  push:
  branches:
